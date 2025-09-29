@@ -248,5 +248,15 @@
     "weight": 55,
     "bmi": 21.23,
     "verdict": "Normal"
+  },
+  "P0026": {
+    "name": "Amit Mishra",
+    "city": "Jodhpur",
+    "age": 35,
+    "gender": "Male",
+    "height": 1.25,
+    "weight": 86.4,
+    "bmi": 55.3,
+    "verdict": "Obese"
   }
 }
