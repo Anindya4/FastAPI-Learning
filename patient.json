@@ -80,13 +80,13 @@
     "verdict": "Obese"
   },
   "P009": {
-    "name": "Ritika Rao",
-    "city": "Hyderabad",
-    "age": 24,
-    "gender": "female",
-    "height": 1.62,
-    "weight": 50,
-    "bmi": 19.05,
+    "name": "Rohit Verma",
+    "city": "Delhi",
+    "age": 25,
+    "gender": "male",
+    "height": 1.8,
+    "weight": 65.0,
+    "bmi": 20.06,
     "verdict": "Normal"
   },
   "P010": {
@@ -238,16 +238,6 @@
     "weight": 92,
     "bmi": 28.4,
     "verdict": "Overweight"
-  },
-  "P025": {
-    "name": "Simran Kaur",
-    "city": "Ahmedabad",
-    "age": 26,
-    "gender": "female",
-    "height": 1.61,
-    "weight": 55,
-    "bmi": 21.23,
-    "verdict": "Normal"
   },
   "P0026": {
     "name": "Amit Mishra",
